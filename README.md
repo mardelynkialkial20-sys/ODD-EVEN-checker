@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-   int number;
-   int even;
-   int odd;
+int number;
+int even;
+int odd;
    
    printf("Enter a number:");
    scanf("%d", &number);
